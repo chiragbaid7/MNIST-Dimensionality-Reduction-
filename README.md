@@ -1,2 +1,2 @@
 # MNIST-Dimensionality-Reduction
-PCA vs TSNE
+https://distill.pub/2016/misread-tsne/
